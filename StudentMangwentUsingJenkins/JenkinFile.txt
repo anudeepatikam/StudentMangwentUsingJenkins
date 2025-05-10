@@ -1,0 +1,25 @@
+﻿pipeline {
+
+	agent  any 
+
+	environment {
+	  DOTNET_CLI_HOME="C:\\Program Files\\dotnet"
+	}
+
+	stages {
+	   stage('Checkout'){
+	    step {
+		   checkout scm 
+		}
+	   }
+
+	   stage('Build') {
+	   
+	       step {
+		     
+		   }
+
+	   }
+	
+	}
+}

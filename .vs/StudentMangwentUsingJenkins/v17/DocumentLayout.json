@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentMangwentUsingJenkins\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Program.cs",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Program.cs",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:18:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:16:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:16:26.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:16:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T14:56:21.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T14:53:52.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:14:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMangwentUsingJenkins\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\winfoEntE3\\source\\repos\\StudentMangwentUsingJenkins\\StudentMangwentUsingJenkins\\Models\\Student.cs",
+              "RelativeToolTip": "StudentMangwentUsingJenkins\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:12:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
