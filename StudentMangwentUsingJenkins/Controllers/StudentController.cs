@@ -29,5 +29,20 @@ namespace StudentMangwentUsingJenkins.Controllers
             return RedirectToAction("Index");
         }
 
+        public IActionResult Delete() {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Delete(int id) { 
+           var student = students.FirstOrDefault(x=>x.Id==id);
+            if (student != null)
+            {
+                students.Remove(student);
+            }
+           
+            return RedirectToAction("Index");
+        }
+
     }
 }

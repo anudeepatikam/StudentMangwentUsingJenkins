@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentMangwentUsingJenkins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bfb39ca9b06bfb9240f8fdfa3c8131abf1c8054")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentMangwentUsingJenkins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentMangwentUsingJenkins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
